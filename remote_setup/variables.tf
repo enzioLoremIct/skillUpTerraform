@@ -4,15 +4,15 @@
 
 variable "location" {
   type    = string
-  default = "eastus"
+  default = "northeurope"
 }
 
 variable "naming_prefix" {
   type    = string
-  default = "adolabs"
+  default = "skillup"
 }
 
 variable "github_repository" {
   type    = string
-  default = "ado-labs-github-actions"
+  default = "skillUpTerraform"
 }
