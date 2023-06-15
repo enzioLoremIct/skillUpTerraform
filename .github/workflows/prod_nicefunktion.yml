@@ -41,4 +41,4 @@ jobs:
           app-name: 'niceFunktion'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6577A5EF4FB4F73A264697457F8962E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF527620C78643E6B4DE78000563F615 }}
